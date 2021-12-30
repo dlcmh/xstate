@@ -1,5 +1,11 @@
 # xstate
 
+## 4.28.0
+
+### Minor Changes
+
+- [#2835](https://github.com/statelyai/xstate/pull/2835) [`029f7b75a`](https://github.com/statelyai/xstate/commit/029f7b75a22a8186e5e3983dfd980c52369ef09f) Thanks [@woutermont](https://github.com/woutermont)! - Added interop observable symbols to `ActorRef` so that actor refs are compatible with libraries like RxJS.
+
 ## 4.27.0
 
 ### Minor Changes
